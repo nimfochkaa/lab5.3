@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE5BA31-0666-4A07-BB23-0CE366AFC2F8}|5.3\\5.3.vcxproj|D:\\vs project\\5.3\\5.3\\5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDE5BA31-0666-4A07-BB23-0CE366AFC2F8}|5.3\\5.3.vcxproj|solutionrelative:5.3\\5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A118A6E-0044-408E-B036-873E2497D925}|UnitTest5.3\\UnitTest5.3.vcxproj|D:\\vs project\\5.3\\UnitTest5.3\\UnitTest5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A118A6E-0044-408E-B036-873E2497D925}|UnitTest5.3\\UnitTest5.3.vcxproj|solutionrelative:UnitTest5.3\\UnitTest5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.3.cpp",
+              "DocumentMoniker": "D:\\vs project\\5.3\\UnitTest5.3\\UnitTest5.3.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.3\\UnitTest5.3.cpp",
+              "ToolTip": "D:\\vs project\\5.3\\UnitTest5.3\\UnitTest5.3.cpp",
+              "RelativeToolTip": "UnitTest5.3\\UnitTest5.3.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T16:12:16.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.3.cpp",
+              "DocumentMoniker": "D:\\vs project\\5.3\\5.3\\5.3.cpp",
+              "RelativeDocumentMoniker": "5.3\\5.3.cpp",
+              "ToolTip": "D:\\vs project\\5.3\\5.3\\5.3.cpp",
+              "RelativeToolTip": "5.3\\5.3.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T15:57:06.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
